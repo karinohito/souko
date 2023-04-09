@@ -4,3 +4,5 @@ sort.md が並べ替えゲームの解説
 
 numgame.md が数当てゲームの解説
 *_seqrch.gif がnumgame.md 中の画像に対応
+
+nanika は特に何もないです
