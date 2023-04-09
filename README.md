@@ -1,4 +1,4 @@
-# -
+# 説明
 sort.md が並べ替えゲームの解説
 *_sort.gif はsort.md 中の画像に対応
 
